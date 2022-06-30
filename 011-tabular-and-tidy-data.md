@@ -9,6 +9,6 @@ Python comes with several data structures that we can use to organize tabular da
    ```
    house_0_list = [115910.26, 128, 4]
    house_0_list
-    ```
+   
     
 
