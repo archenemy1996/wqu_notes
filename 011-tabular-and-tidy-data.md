@@ -6,12 +6,9 @@ In a table along the rows are observations, along the columns are features and c
 Working with lists:
 Python comes with several data structures that we can use to organize tabular data. Let's start by putting a single observation in a list.
    
-   ```house_0_list = [115910.26, 128, 4]
-    house_0_list
+   ```
+   house_0_list = [115910.26, 128, 4]
+   house_0_list
     ```
     
-   ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
 
