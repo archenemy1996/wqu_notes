@@ -5,6 +5,6 @@ In a table along the rows are observations, along the columns are features and c
 ###Tabular Data and Python Data Structures
 Working with lists:
 Python comes with several data structures that we can use to organize tabular data. Let's start by putting a single observation in a list.
-    >> <code>house_0_list = [115910.26, 128, 4]</code>
-    >> <code>house_0_list</code>
+    ```house_0_list = [115910.26, 128, 4]```
+    ```house_0_list```
 
